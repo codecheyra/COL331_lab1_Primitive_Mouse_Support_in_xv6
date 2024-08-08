@@ -229,13 +229,3 @@ Some examples, involving flags, that you might find helpful while solving this l
 5) `-w 5`: Changes scheduling window size to 5 (for some scheduling policies).
 
 You are encouraged to go through disk.py code and explore the implementation furthur. You should now have a basic idea of how the simulator works. The questions provided along with this lab, will explore some of the different options, to better help you build a model of how a disk really works. The link to the original README can be found [here](https://github.com/remzi-arpacidusseau/ostep-homework/blob/master/file-disks/README.md).
-
-## Deliverables
-
-You should use the provided disk simulator and answer the questions on [Moodle](https://moodle.iitd.ac.in/mod/quiz/view.php?id=112812). Note that you will have only one attempt which can be submitted before the deadline. You can start the attempt to check the questions and continue the attempt to answer them at a later point of time before the deadline. **Answers can not be modified and no re-attempts are allowed once this part is submitted**. So, submit this part only when you are completely sure.
-
-# Logistics
-
-- **Submission Deadline:** The final date for submitting your lab is February 3, 2024, at 11:59 PM.
-- **Part-A Grading:** Part-A of the lab carries a total of 25 marks, contributing 5% to the overall course grade.
-- **Part-B Grading:** Part-B of the lab is worth 4 marks and accounts for 1% of the total course grade.
